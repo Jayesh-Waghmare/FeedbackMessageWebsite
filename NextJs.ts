@@ -4,6 +4,4 @@
 
 // NextJs is a edge time framework means whenever there is a request from the user then it gets executed/runs
 
-// re_jH1LHfFT_JkGEAazje1eDkMRRSqwjX85X - Resend Email API Key password
-
 // Database Connection is always at route as NextJS works on edge
